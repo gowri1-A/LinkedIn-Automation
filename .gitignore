@@ -1,0 +1,19 @@
+# Go
+*.exe
+*.out
+*.test
+*.log
+
+# Environment
+.env
+
+# LinkedIn session
+cookies.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

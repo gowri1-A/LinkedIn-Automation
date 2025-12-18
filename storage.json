@@ -1,0 +1,10 @@
+{
+  "sent_connections": [
+    "https://example.com/profile1",
+    "https://example.com/profile2"
+  ],
+  "sent_messages": {
+    "https://example.com/profile1": " ",
+    "https://example.com/profile2": " "
+  }
+}
