@@ -6,12 +6,11 @@ realistic behavior, and safe connection sending.
 ## 🚀 Features
 - Browser automation using Go Rod
 - Fingerprint & behavior stealth
-- Cookie-based login persistence
 - Business-hours execution
 - Human-like typing, scrolling & mouse movement
 - LinkedIn search with typeahead suggestions
 - Automatic first-profile selection
-- Connect button click (no note – safe)
+- Connect button click
 
 ## 🛠 Tech Stack
 - Go
